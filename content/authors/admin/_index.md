@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am excited to use my industry and academic experience to bring cutting edge Computer Vision research to life. My interests lie in the field of Computer Vision with an emphasis on challenges involving humans, such as human pose estimation, human body segmentation, action recognition and action localisation.
 {style="text-align: justify;"}
