@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am excited to use my industry and academic experience to bring cutting edge Computer Vision research to life. My interests lie in the field of Computer Vision with an emphasis on challenges involving humans, such as human pose estimation, human body segmentation, action recognition and action localisation.
+I am excited to use my industry and academic experience to bring cutting edge Computer Vision research to life. My interests lie in the field of Computer Vision with an emphasis on challenges involving human faces and bodies, such as 3D facial reconstruction from a monocular image, facial avatar creation, action recognition and action localization.
 {style="text-align: justify;"}
