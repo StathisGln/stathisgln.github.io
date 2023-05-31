@@ -29,7 +29,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: London
-          date_start: '2021-01-25'
+          date_start: '2022-01-25'
           date_end: ''
           description: 'I am currently working as a Computer Vision Engineer in Huawei UK, where my primary focus lies in the task of 3D facial reconstruction from a monocular image. In this role, I am responsible for seamlessly integrating cutting-edge techniques within this field. My objective is to enhance the effectiveness and accuracy of facial reconstruction methods, pushing the boundaries of what is currently considered state-of-the-art methods like NeRF and diffusion-based techniques.'
         - title: Research Assistant
@@ -37,7 +37,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: London
-          date_start: '2021-01-01'
+          date_start: '2021-02-01'
           date_end: '2022-01-22'
           description: 'I worked as a Research Assistan(RA) in the project ARISE held by Business School, Imperial College of London. ARISE was a European Union-funded initiative designed to forecast agricultural crop yields within a specific region during targeted time periods. My responsibilities encompassed the utilization of data derived from satellites and weather stations, employing state-of-the-art machine learning algorithms to extract meaningful insights. Additionally, I was tasked with generating synthetic data for regions with limited data availability, ensuring a comprehensive and robust approach to yield prediction.'
         - title: Computer Vision Scientist
