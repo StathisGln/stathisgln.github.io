@@ -31,7 +31,7 @@ sections:
           location: London
           date_start: '2021-01-25'
           date_end: ''
-          description: 'I am currently working as a Computer Vision Engineer in Huawei UK, focusing in 3D facial reconstruction from a monocular image, combining current state-of-the-art techniques.'
+          description: 'I am currently working as a Computer Vision Engineer in Huawei UK, where my primary focus lies in the task of 3D facial reconstruction from a monocular image. In this role, I am responsible for seamlessly integrating cutting-edge techniques within this field. My objective is to enhance the effectiveness and accuracy of facial reconstruction methods, pushing the boundaries of what is currently considered state-of-the-art methods like NeRF and diffusion-based techniques.'
         - title: Research Assistant
           company: Imperial College London 
           company_url: ''
@@ -39,7 +39,7 @@ sections:
           location: London
           date_start: '2021-01-01'
           date_end: '2022-01-22'
-          description: 'I worked as a Research Assistan(RA) in the project ARISE held by Business School, Imperial College of London. The project ARISE was a EU funded programme aimed to predict how much crop yield the farms of a specific area will have in a desired time period. My work involves exploiting data gathered from satellites and weather stations, exploiting them by using the latest machine learning algorithms whereas creating synthetic data for areas with low-data availability.'
+          description: 'I worked as a Research Assistan(RA) in the project ARISE held by Business School, Imperial College of London. ARISE was a European Union-funded initiative designed to forecast agricultural crop yields within a specific region during targeted time periods. My responsibilities encompassed the utilization of data derived from satellites and weather stations, employing state-of-the-art machine learning algorithms to extract meaningful insights. Additionally, I was tasked with generating synthetic data for regions with limited data availability, ensuring a comprehensive and robust approach to yield prediction.'
         - title: Computer Vision Scientist
           company: ArielAI
           company_url: ''
@@ -47,8 +47,7 @@ sections:
           location: London
           date_start: '2020-01-01'
           date_end: '2020-10-01'
-          description: 'My main responsibilities included designing and implementing innovative automatic pipelines in order to create 
-          new in-the-wild datasets by applying state of the art techniques to data across the web and planning human annotation tasks for ArielAI’s annotators.'
+          description: 'My main responsibilities included the design and implementation of cutting-edge automated pipelines for collecting images across the web. These pipelines were instrumental in the creation of novel datasets that accurately represented real-world scenarios. In addition, I took charge of designing and coordinating human annotation tasks for the annotators at ArielAI while ensuring precise and consistent annotations..'
         - title: R&D, ML Engineer
           company: Pobuca Ltd
           company_url: ''
@@ -56,9 +55,8 @@ sections:
           location: Athens
           date_start: '2018-05-01'
           date_end: '2019-01-31'
-          description: 'I worked as the only ML engineer to develop a network for automated product recognition in pictures 
-          taken from supermarket shelves. This required designing Computer Vision algorithms and tools for easy annotation 
-          and creating both training and detection procedures alongside with back-end support.'
+          description: "In my capacity as the sole Machine Learning Engineer, I undertook the development of a robust network for automated product recognition within images captured from supermarket shelves. This required designing Computer Vision algorithms and tools for easy annotation 
+          and creating both training and detection procedures alongside with back-end support."
     design:
       columns: '2'
   - block: collection
