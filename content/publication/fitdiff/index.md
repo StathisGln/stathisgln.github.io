@@ -11,9 +11,11 @@ authors:
   - Stylianos Moschoglou
   - Stefanos Zafeiriou 
 
-date: '2023-02-06T00:00:00Z'
+date: '2023-11-06'
 tags: []
 # Display this page in the Featured widget?
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
 featured: true
 links:
 #- name: ArXiv
