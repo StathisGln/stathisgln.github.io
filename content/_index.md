@@ -29,9 +29,17 @@ sections:
           company_url: ''
           company_logo: ''
           location: London
+          date_start: '2024-09-01'
+          date_end: '2025-03-01'
+          description: 'I worked as a Computer Vision Intern in Huawei UK, where I focus on 3D facial reconstruction from monocular images using advanced 3D Gaussian Splatting techniques.'            
+        - title: Computer Vision Intership
+          company: Huawei UK 
+          company_url: ''
+          company_logo: ''
+          location: London
           date_start: '2022-01-25'
-          date_end: ''
-          description: 'I am currently working as a Computer Vision Engineer in Huawei UK, where my primary focus lies in the task of 3D facial reconstruction from a monocular image. In this role, I am responsible for seamlessly integrating cutting-edge techniques within this field. My objective is to enhance the effectiveness and accuracy of facial reconstruction methods, pushing the boundaries of what is currently considered state-of-the-art methods like NeRF and diffusion-based techniques.'
+          date_end: '2024-01-25'
+          description: 'As a Computer Vision Engineer at Huawei UK, I specialized in 3D facial reconstruction from monocular images. In this role, I integrated cutting-edge techniques to advance the field, focusing on enhancing the accuracy and effectiveness of reconstruction methods. My work involved pushing the boundaries of state-of-the-art approaches, such as NeRF and diffusion-based techniques.'
         - title: Research Assistant
           company: Imperial College London 
           company_url: ''
