@@ -31,7 +31,7 @@ sections:
           location: London
           date_start: '2025-03-01'
           date_end: 
-          description: In my role as a research assistant, my research interests lie on investigating diffusion-based approaches for reliable skin-lesion synthesis, classification and segmentation.
+          description: In my role as a research assistant, I investigate diffusion-based techniques, aimed at improving the tasks of skin lesion synthesis, classification, and segmentation.
 
         - title: Computer Vision Intership
           company: Huawei UK 
