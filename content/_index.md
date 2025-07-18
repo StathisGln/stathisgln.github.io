@@ -24,6 +24,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Assistant in Computer Visio
+          company: Imperial College London
+          company_url: ''
+          company_logo: ''
+          location: London
+          date_start: '2025-03-01'
+          date_end: 
+          description: In my role as a research assistant, my research interests lie on investigating diffusion-based approaches for reliable skin-lesion synthesis, classification and segmentation.
+
         - title: Computer Vision Intership
           company: Huawei UK 
           company_url: ''
