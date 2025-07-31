@@ -22,6 +22,10 @@ publication_types: ['1']
 
 tags: [spinmeround]
 
+# Publication name and optional abbreviated publication name.
+publication: In *2025 IEEE/CVF International Conference on Computer Vision (ICCV)*
+publication_short: In *2025 ICCV*
+
 # Display this page in the Featured widget?
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
