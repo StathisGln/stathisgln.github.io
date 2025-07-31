@@ -25,7 +25,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant in Computer Visio
+        - title: Research Assistant in Computer Vision
           company: Imperial College London
           company_url: ''
           company_logo: ''
