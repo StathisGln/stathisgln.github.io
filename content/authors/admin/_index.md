@@ -4,7 +4,7 @@ title: Stathis Galanakis
 
 # Full name (for SEO)
 first_name: Efstathios
-last_name: Galankis
+last_name: Galanakis
 
 # Status emoji
 status:
@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Imperial College London
-      year: 2021
+      year: 2021-2025
     - course: M.Eng. in Electrical & Computer Engineering
       institution: National Technical University of Athens
       year: 2019
@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:s.galanakis21@imperial.ac.uk"
+    link: "mailto:stathisgalan@imperial.ac.uk"
   #  link: '/#contact'
   # - icon: twitter
   #  icon_pack: fab
