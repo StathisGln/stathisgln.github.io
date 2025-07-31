@@ -23,7 +23,7 @@ tags: [fitdiff]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*
-publication_short: In *2025 WACV*]
+publication_short: In *2025 WACV*
 
 # Display this page in the Featured widget?
 # Featured image
