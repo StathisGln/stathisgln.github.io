@@ -19,7 +19,7 @@ date: '2023-11-06'
 # 7 = Thesis; 8 = Patent
 publication_types: ['1']
 
-tags: [fitdiff
+tags: [fitdiff]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*
