@@ -25,14 +25,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant in Computer Vision
+        - title: Research Associate in Generative Computer Vision models
           company: Imperial College London
           company_url: ''
           company_logo: ''
           location: London
           date_start: '2025-03-01'
           date_end: 
-          description: In my role as a research assistant, I investigate diffusion-based techniques, aimed at improving the tasks of skin lesion synthesis, classification, and segmentation.
+          description: In my role as a research associate, I investigate generative diffusion-based techniques, aimed at improving the tasks of skin lesion synthesis, classification, and segmentation. 
 
         - title: Computer Vision Intership
           company: Huawei UK 
