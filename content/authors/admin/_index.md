@@ -26,9 +26,9 @@ bio: My research interests include techniques for 3D face reconstruction from a 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - 3D Face Reconstruction
-  - Computer Graphics
+  - 3D Computer Vision
+  - Deep Learning
+  - Machine Learning
 
 # Education to show in About widget
 education:
@@ -55,9 +55,9 @@ social:
   #  label: Follow me on Twitter
   #  display:
   #    header: true
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #  icon_pack: fas
-  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=QXkdnUAAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/StathisGln
@@ -78,5 +78,6 @@ email: ''
 highlight_name: true
 ---
 
-I am excited to use my industry and academic experience to bring cutting edge Computer Vision research to life. My interests lie in the field of Computer Vision particularly in tackling intricate challenges related to human faces and bodies. These encompass areas such as 3D facial reconstruction from monocular images, facial avatar generation, as well as  engaging in dataset creation efforts.
+Hi! I am Stathis and I am a Computer Vision Engineer with a strong foundation in deep generative methods, specializing in 3D modelling of human faces and bodies.
+With publications in major computer vision conferences (ICCV, WACV), I focus on implementing cutting-edge algorithms that solve complex real-world problems.
 {style="text-align: justify;"}
