@@ -69,7 +69,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Resume_Efstathios_Galanakis.pdf
+    link: uploads/Resume_Stathis_Galanakis.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
