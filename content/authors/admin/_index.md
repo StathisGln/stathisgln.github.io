@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:stathisgalan@imperial.ac.uk"
+    link: "mailto:stathisgalan@gmail.com"
   #  link: '/#contact'
   # - icon: twitter
   #  icon_pack: fab
