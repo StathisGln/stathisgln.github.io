@@ -32,24 +32,16 @@ sections:
           location: London
           date_start: '2025-03-01'
           date_end: 
-          description: In my role as a research associate, I investigate generative diffusion-based techniques, aimed at improving the tasks of skin lesion synthesis, classification, and segmentation. 
+          description: I investigate diffusion-based methods for generating synthetic medical imaging data in low-data regimes. As part of this work, I introduced DermaFlux, a framework that improves pathology classification performance by 8% through the curation of a 500k image–text pair dataset. In addition, I explore the use of large language models (LLMs) to generate synthetic medical captions and automate the classification of pathology reports.
 
         - title: Computer Vision Intership
           company: Huawei UK 
           company_url: ''
           company_logo: ''
           location: London
-          date_start: '2024-09-01'
-          date_end: '2025-03-01'
-          description: 'I worked as a Computer Vision Intern in Huawei UK, where I focus on 3D facial reconstruction from monocular images using advanced 3D Gaussian Splatting techniques.'            
-        - title: Computer Vision Intership
-          company: Huawei UK 
-          company_url: ''
-          company_logo: ''
-          location: London
           date_start: '2022-01-25'
-          date_end: '2024-01-25'
-          description: 'As a Computer Vision Engineer at Huawei UK, I specialized in 3D facial reconstruction from monocular images. In this role, I integrated cutting-edge techniques to advance the field, focusing on enhancing the accuracy and effectiveness of reconstruction methods. My work involved pushing the boundaries of state-of-the-art approaches, such as NeRF and diffusion-based techniques.'
+          date_end: '2024-03-01'
+          description: 'As a Computer Vision Engineer at Huawei UK, I specialized in 3D facial reconstruction from monocular images. In this role, I integrated cutting-edge techniques to advance the field, focusing on enhancing the accuracy and effectiveness of reconstruction methods. My work involved pushing the boundaries of state-of-the-art approaches, such as NeRF and diffusion-based techniques. Moreover, I focused on designing a generic 3D Gaussian Splatting framework for animatable head avatars, enabling consistent identity generation across viewpoints.'
         - title: Research Assistant
           company: Imperial College London 
           company_url: ''

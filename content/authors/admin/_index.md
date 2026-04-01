@@ -78,6 +78,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am Stathis and I am a Computer Vision Engineer with a strong foundation in deep generative methods, specializing in 3D modelling of human faces and bodies.
-With publications in major computer vision conferences (ICCV, WACV), I focus on implementing cutting-edge algorithms that solve complex real-world problems.
+Hi! I am Stathis and I am a Computer Vision Engineer with a PhD from Imperial College London.
+Having a strong foundation in deep generative methods, I specialise in 3D modelling of human faces and bodies.
+With first-author publications in major computer vision conferences (ICCV, WACV), I focus on implementing cutting-edge algorithms that solve complex real-world problems.
 {style="text-align: justify;"}
