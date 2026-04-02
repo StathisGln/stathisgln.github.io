@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computer Vision Engineer 
+role: Computer Vision Engineer | PostDoc @ 
 
 # Organizations/Affiliations to show in About widget
 organizations:
