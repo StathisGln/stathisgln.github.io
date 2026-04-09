@@ -49,7 +49,7 @@ sections:
           location: London
           date_start: '2021-02-01'
           date_end: '2022-01-22'
-          description: 'I worked as a Research Assistant on the ARISE project at the Business School of Imperial College London, an EU-funded initiative focused on forecasting agricultural crop yields across regions and time periods. I developed machine learning models using satellite imagery and weather data, building pipelines to integrate spatial and temporal information effectively. To address data scarcity, I implemented synthetic data generation techniques, improving model generalisation and robustness in underrepresented regions.'
+          description: 'I worked as a Research Assistant on the ARISE project at the Business School of Imperial College London. This EU-funded initiative focused on forecasting agricultural crop yields across regions and time periods. I developed machine learning models using satellite imagery and weather data, building pipelines to integrate spatial and temporal information effectively. To address data scarcity, I implemented synthetic data generation techniques, improving model generalisation and robustness in underrepresented regions.'
         - title: Computer Vision Scientist
           company: ArielAI
           company_url: ''
@@ -57,7 +57,7 @@ sections:
           location: London
           date_start: '2020-01-01'
           date_end: '2020-10-01'
-          description: 'My main responsibilities included the design of scalable automated pipelines for large-scale image collection from the web. In this way, the creation of high-quality datasets that reflect real-world scenarios was enabled. I also led the design and coordination of human annotation workflows at ArielAI, ensuring consistency and accuracy across labelled data. This work supported robust model training by combining efficient data acquisition with reliable annotation processes. This work supported robust model training by combining efficient data acquisition with reliable annotation processes, contributing to the company’s eventual acquisition by Snap Inc..'
+          description: 'My main responsibilities included the design of scalable automated pipelines for large-scale image collection from the web. In this way, the creation of high-quality datasets that reflect real-world scenarios was enabled. I also led the design and coordination of human annotation workflows at ArielAI, ensuring consistency and accuracy across labelled data. This work supported robust model training by combining efficient data acquisition with reliable annotation processes, contributing to the company’s eventual acquisition by Snap Inc..'
         - title: R&D, ML Engineer
           company: Pobuca Ltd
           company_url: ''
