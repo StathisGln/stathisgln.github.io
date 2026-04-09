@@ -50,7 +50,6 @@ sections:
           date_start: '2021-02-01'
           date_end: '2022-01-22'
           description: 'I worked as a Research Assistant on the ARISE project at the Business School of Imperial College London, an EU-funded initiative focused on forecasting agricultural crop yields across regions and time periods. I developed machine learning models using satellite imagery and weather data, building pipelines to integrate spatial and temporal information effectively. To address data scarcity, I implemented synthetic data generation techniques, improving model generalisation and robustness in underrepresented regions.'
-	  
         - title: Computer Vision Scientist
           company: ArielAI
           company_url: ''
