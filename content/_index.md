@@ -40,7 +40,7 @@ sections:
           company_logo: ''
           location: London
           date_start: '2022-01-25'
-          date_end: '2024-03-01'
+          date_end: '2025-03-01'
           description: 'As a Computer Vision Engineer at Huawei UK, I specialized in 3D facial reconstruction from monocular images. In this role, I integrated cutting-edge techniques to advance the field, focusing on enhancing the accuracy and effectiveness of reconstruction methods. My work involved pushing the boundaries of state-of-the-art approaches, such as NeRF and diffusion-based techniques. Moreover, I focused on designing a generic 3D Gaussian Splatting framework for animatable head avatars, enabling consistent identity generation across viewpoints.'
         - title: Research Assistant
           company: Imperial College London 
